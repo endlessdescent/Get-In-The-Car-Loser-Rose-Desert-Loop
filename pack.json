@@ -1,0 +1,10 @@
+{
+  "name": "Get In The Car, Loser! - Rose Desert",
+  "description": "Replaces Home Menu With Rose Desert Music from GITCL",
+  "author": "endlessdescent",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
